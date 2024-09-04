@@ -1,0 +1,6 @@
+# Ignorar archivos .nc
+*.nc
+
+# Ignorar archivos .jpg
+*.jpg
+
