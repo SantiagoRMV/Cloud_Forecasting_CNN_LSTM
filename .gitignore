@@ -4,5 +4,8 @@
 # Ignorar archivos .jpg
 *.jpg
 
+# Ignorar archivos .png
+*.png
+
 # Ignorar archivos .csv
 *.csv
